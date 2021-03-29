@@ -1,2 +1,2 @@
 # Instagram-login
-Página de confirmação de login do Instagram
+Exercício prático: re-criação da página de Login do Instagram
